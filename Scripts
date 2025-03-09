@@ -75,5 +75,22 @@
   "Freeze Tool": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Freeze%20Tool%20Obfuscator'))()",
   "Game Teleporter": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Game%20Teleporter'))()",
   "Ghost Mode": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Ghost%20Mode'))()",
-  "Ghost Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()"
+  "Ghost Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()",
+  "Ghostplayer Outfit": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Ghostplayer%20Outfit'))()",
+  "Grab": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Grab.txt'))()",
+  "Green Screen": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Green%20Screen'))()",
+  "Guess How Many": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Guess%20How%20Many'))()",
+  "Guess The Drawing": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Guess%20The%20Drawing'))()",
+  "Guess The Drawings!": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Guess%20The%20Drawings!'))()",
+  "Guess The Logo All Badge": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Guess%20The%20Logo%20All%20Badge'))()",
+  "Gym Training Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Gym%20Training%20Simulator'))()",
+  "Happy Runners": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Happy%20Runners'))()",
+  "Head Sit Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Head%20Sit%20Gui'))()",
+  "Hide And Seek Extreme": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Hide%20And%20Seek%20Extreme'))()",
+  "Hide And Seek Props Hunt": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Hide%20And%20Seek%20Props%20Hunt'))()",
+  "Hide Players": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Hide%20Players'))()",
+  "Hitbox Customizer": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/HitBox%20Costumizer'))()",
+  "Hitbox Customizer v2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/HitBox%20Costumizer%20v2'))()",
+  "Hole": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Hole'))()",
+  "Homework Lifting Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Home%20Work%20Lifting%20Simulator'))()"
 }
