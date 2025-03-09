@@ -41,5 +41,6 @@
   "Clone": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Clone'))()",
   "Clone Tycoon 2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Clone%20Tycoon%202'))()",
   "Closest Answer Wins": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Closest%20Answer%20Wins'))()",
-  "Collor Block Tower": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Collor%20Block%20Tower'))()"
+  "Collor Block Tower": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Collor%20Block%20Tower'))()",
+  "Control Player": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Control%20Player'))()"
 }
