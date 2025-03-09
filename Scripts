@@ -30,5 +30,16 @@
   "CCTV Camera": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/CCTV%20Camera'))()",
   "Cable Race": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Cable%20Race'))()",
   "Calculator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Calculator'))()",
-  "Cannon Ball": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Cannon%20Ball'))()"
+  "Cannon Ball": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Cannon%20Ball'))()",
+  "Cars Trading": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Cars%20Trading'))()",
+  "Castle Wars": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Castle%20Wars'))()",
+  "Castle Wars 2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Castle%20Wars%202'))()",
+  "Chat Hax": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Chat%20Hax%20Obfuscator'))()",
+  "Cheese Escape": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Cheese%20Escape'))()",
+  "Climb 1000 Stairs": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Climb%201k%20Stairs%20Obfuscator'))()",
+  "Climb Walls": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Climb%20Walls'))()",
+  "Clone": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Clone'))()",
+  "Clone Tycoon 2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Clone%20Tycoon%202'))()",
+  "Closest Answer Wins": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Closest%20Answer%20Wins'))()",
+  "Collor Block Tower": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Collor%20Block%20Tower'))()"
 }
