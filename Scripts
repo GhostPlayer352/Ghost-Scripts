@@ -75,5 +75,5 @@
   "Freeze Tool": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Freeze%20Tool%20Obfuscator'))()",
   "Game Teleporter": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Game%20Teleporter'))()",
   "Ghost Mode": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Ghost%20Mode'))()",
-  "Ghost Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()",
+  "Ghost Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()"
 }
