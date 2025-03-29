@@ -6,6 +6,7 @@
   "Animation Stealer": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Animation%20Stealer'))()",
   "Anime Sword Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Anime%20Sword%20Simulator'))()",
   "Annoy Player": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Annoy%20Player'))()",
+  "Anti Fling": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('34f43d1bdd0b887bfe1516d4c8c587f8')",
   "Attach Tool": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Attach%20Tool'))()",
   "Auto Chat": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Chat'))()",
   "Auto Equip Tool": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Equip%20Tool'))()",
