@@ -48,7 +48,7 @@
   "Clothes Stealer Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('5d75bcd69db1fd272d7dc7011d9211fe')",
   "Color Block Clash": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('e8cfe1ed5b528a1452da3fe3dac5ff68')",
   "Color Block Tower": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Collor%20Block%20Tower'))()",
-  "Color Block Race": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('1dc27965edb6c00285b8141b938ac35c')"
+  "Color Block Race": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('1dc27965edb6c00285b8141b938ac35c')",
   "Control Player": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Control%20Player'))()",
   "Copy Animation": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Copy%20Animation'))()",
   "Copy Avatar": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Copy%20Avatar'))()",
