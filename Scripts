@@ -1,4 +1,5 @@
 {
+  "Accessories Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('1cf0d246861bd474cff49060ffb7d26b')",
   "Account Age Detector": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Account%20Age%20Detector'))()",
   "Ambient Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('88e91557e59e811777971cf29c9766f5')",
   "Animation Customizer": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Animation%20Costumizer'))()",
