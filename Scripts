@@ -193,6 +193,7 @@
   "Void": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Void'))()",
   "Walk And Run": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Walk%20And%20Run'))()",
   "Weapon Simulator 2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Weapon%20Simulator%202'))()",
+  "Words Or Die": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('9645c28a67e031371e4ca2e02f4f3b09')",
   "Workout Island": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Workout%20Island'))()",
   "XOR Obfuscator Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/XOR%20Obfuscator%20Gui'))()"
 }
