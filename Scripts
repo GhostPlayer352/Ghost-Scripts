@@ -57,6 +57,7 @@
   "Crown Divers": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Crown%20Divers'))()",
   "Dance Stop": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Dance%20Stop'))()",
   "DarkGhost Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/DarkGhost%20Gui%20Hub'))()",
+  "Dodgeball Legends": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('920b7aa3d98882b4062dcf5e84cd73c7')",
   "Doomspire Brick Battle Classic": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Doomspire%20brickbattle%20Classic'))()",
   "Doors But Math": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/ScriptAuthorization%20Source'))()Ioad('482dcb6ae7052175f6a975fe63910abe')",
   "Dreaming Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Dreaming%20Simulator'))()",
