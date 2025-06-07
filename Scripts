@@ -20,6 +20,7 @@
   "Auto Walk": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Walk%20Obfuscator'))()",
   "Avatar Outfit Changer": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auth'))()Ioad('798d0bffa1239975b4740512fef38f6f')",
   "Bakery Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Bekary%20Simulator'))()",
+  "Bee Factory Tycoon": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/heads/main/Auth'))()Ioad('b17325a2c36a381a0db66e7517d61cbb')",
   "Big Brain Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Big%20Brain%20Simulator%20Obfuscator'))()",
   "Blood Moon Tycoon": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Blood%20Moon%20Tycoon'))()",
   "Body Follow Camera": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Body%20Follow%20Camera'))()",
