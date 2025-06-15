@@ -25,6 +25,7 @@
   "Blood Moon Tycoon": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Blood%20Moon%20Tycoon'))()",
   "Body Follow Camera": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Body%20Follow%20Camera'))()",
   "Body Part Destroyer": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Body%20Part%20Destroyer'))()",
+  "Bokuno Roblox": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Bokuno%20Roblox'))()",
   "Boss Fighting Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Boss%20Fighting%20Simulator'))()",
   "Break Camera": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Break%20Camera'))()",
   "Build A Boat For Treasure": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Build%20A%20Boat%20For%20Treasure'))()",
