@@ -114,6 +114,7 @@
   "Hole": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Hole'))()",
   "Homework Lifting Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Home%20Work%20Lifting%20Simulator'))()",
   "Invisible Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Invisible%20Gui'))()",
+  "Invisible Mode": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Invisible%20Mode'))()",
   "Jack Of Hearts": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auth'))()Ioad('b80d7e3c7537171e69f28aa0d5b7aff4')",
   "Kick Self When Dead": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Kick%20Self%20When%20Dead%20Obfuscator'))()",
   "Kill Player": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Kill%20Player'))()",
