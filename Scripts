@@ -159,7 +159,7 @@
   "RedGhost": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/RedGhost%20Obfuscator'))()",
   "Remove All Players": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Remove%20All%20Players'))()",
   "Rise A Yipee": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Rise%20A%20Yippee'))()",
-  "Save Emotes": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auth'))()Ioad('494875576069d0fe74e7b17337a1acdf')",
+  "Save Emotes": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Save%20Emotes'))()",
   "Save Server": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auth'))()Ioad('6abc8c09bf8fdf096f4a1ed90ba1867b')",
   "Scary Elevator 2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Scary%20Elevator%202'))()",
   "Scary Spelling": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Scary%20Spelling'))()",
