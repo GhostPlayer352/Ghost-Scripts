@@ -176,6 +176,7 @@
   "Super Tools": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Super%20Tools%20Obfuscator'))()",
   "Survive And Kill The Killers Area51": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Survive%20Area51'))()",
   "Survive Flight 871": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Survive%20Flight%20871'))()",
+  "Solitary Confinement": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Solitary%20Confinement'))()",
   "Sword Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Sword%20Simulator'))()",
   "Swordman Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/SwordMan%20Simulator%20Obfuscator'))()",
   "Teleport Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Teleport%20Gui'))()",
