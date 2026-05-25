@@ -48,6 +48,7 @@
   "Chat Hax": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Chat%20Hax%20Obfuscator'))()",
   "Cheese Escape": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Cheese%20Escape'))()",
   "Climb 1000 Stairs": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Climb%201k%20Stairs%20Obfuscator'))()",
+  "Climb Up Mountain For Brainrot": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Climb%20Up%20Mountain%20For%20Brainrot'))()",
   "Climb Walls": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Climb%20Walls'))()",
   "Clone": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Clone'))()",
   "Clone Tycoon 2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Clone%20Tycoon%202'))()",
