@@ -200,6 +200,7 @@
   "Tic Tac Toe": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Tic%20Tac%20Toe'))()",
   "Time Stop": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Time%20Stop%20Obfuscator'))()",
   "Timer": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Timer'))()",
+  "TikTok": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/TikTok'))()",
   "Tool Activator": "loadstring(game:HttpGet('https://github.com/GhostPlayer352/Test4/blob/main/Tool%20Activator'))()",
   "Tool Giver": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Tool%20Giver'))()",
   "Tool Giver v2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Tool%20Giver%20v2'))()",
