@@ -18,6 +18,7 @@
   "Auto Fling": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Fling'))()",
   "Auto Fling Player": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Fling%20Player'))()",
   "Auto Jump": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Jump'))()",
+  "Auto Clicker": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Clicker'))()",
   "Auto Presser": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Presser%20Obfuscator'))()",
   "Auto Presser v2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Presser%20v2'))()",
   "Auto Walk": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Walk%20Obfuscator'))()",
