@@ -130,7 +130,7 @@
   "Knife Ability Test": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Knife%20Ability%20Test'))()",
   "Lag Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Lag%20Script'))()",
   "Lava Color Block": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Lava%20Color%20Block'))()",
-  "Letter Scrumble!": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auth'))()Ioad('5bf646558fe8765a80fd649ca8b31868')",
+  "Letter Scrumble!": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Letter%20Scramble'))()",
   "Light Part Pet": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Light%20Part%20Pet'))()",
   "Logo Quiz": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Logo%20Quiz'))()",
   "Lumber Tycoon 2 Ghost Dupe": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Lumber%20Tycoon%202%20Ghost%20Dupe'))()",
