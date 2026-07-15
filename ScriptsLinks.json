@@ -38,7 +38,7 @@
   "Dance Stop":"loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Dance%20Stop'))()",
   "DarkGhost Gui":"loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/DarkGhost%20Gui%20Hub'))()",
   "Dodgeball":"loadstring(game:HttpGet(\"https://encrypt-x.pages.dev/Scripts?Id=3521469717511\"))(3521469717511)",
-  "Dodgeball Legends":"https://paste-drop.com/paste/uGQ5sH41CW",
+  "Dodgeball Legends":"loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Dodgeball%20Legends'))()",
   "Doors But Math":"https://paste-drop.com/paste/dvkwunnPlT",
   "Driving Empire":"https://paste-drop.com/paste/zSKHartbgC",
   "Egg Empire":"https://paste-drop.com/paste/W5atBGb9Wp",
