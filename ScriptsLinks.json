@@ -50,7 +50,7 @@
   "Fe Creepy Walker":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Fe%20Creepy%20Walker\"))()",
   "Find The Button":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Find%20The%20Button\"))()",
   "Find The Code 2":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Find%20the%20code%202\"))()",
-  "Find The Word!":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Find%20The%20Word!\"))()",
+  "Find The Word":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Find%20The%20Word!\"))()",
   "Float":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Float\"))()",
   "Freecam":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Freecam\"))()",
   "Free Gamepass Troll Easy Tower":"getgenv().Settings = {\n  CopyButton = false,\n  -------------------\n  AutoButton = false,\n  AutoInterval = 0.1,\n  -------------------\n  InstantPurchase = false,\n  AutoMassPurchase = false,\n  Debug = false,\n}\n\nloadstring(game:HttpGet(\"https://encrypt-x.pages.dev/Scripts?Id=FreeGamepass\"))(\"FreeGamepass\")",
