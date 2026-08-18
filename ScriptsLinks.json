@@ -86,6 +86,7 @@
   "Music Player":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Music%20Gui\"))()",
   "Murder Mystery":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Murder%20Mystery\"))()",
   "Natural Disaster":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Natural%20Disaster\"))()",
+  "Ninja Legends":"loadstring(game:HttpGet(\"https://encrypt-x.pages.dev/Scripts?Id=NinjaLegends\"))(\"NinjaLegends\")",
   "Number Memory":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Number%20Memory\"))()",
   "Oil Empire":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Oil%20Empire\"))()",
   "Part Fly Bypass":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Part%20Fly%20Bypass\"))()",
