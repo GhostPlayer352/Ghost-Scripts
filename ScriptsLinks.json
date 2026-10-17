@@ -113,6 +113,7 @@
   "Spam Tools":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Spam%20Tools\"))()",
   "Spectator":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Spectator\"))()",
   "Stop The Timer":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Stop%20The%20Timer\"))()",
+  "STOP! Word Duel":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/STOP!%20Word%20Duel\"))()",
   "Survive Area51":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Survive%20Area51\"))()",
   "Survive Flight 871":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Survive%20Flight%20871\"))()",
   "Survive Overnight in a Mega Market":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Survive%20Overnight%20in%20a%20Mega%20Market\"))()",
