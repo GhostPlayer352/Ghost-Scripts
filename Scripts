@@ -196,6 +196,7 @@
   "Survive Overnight in a Mega Market": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Survive%20Overnight%20in%20a%20Mega%20Market'))()",
   "Solitary Confinement": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Solitary%20Confinement'))()",
   "Stop The Timer": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Stop%20The%20Timer'))()",
+  "STOP! Word Duel": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/STOP!%20Word%20Duel'))()",
   "Sword Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Sword%20Simulator'))()",
   "Swordman Simulator": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/SwordMan%20Simulator%20Obfuscator'))()",
   "Teleport Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Teleport%20Gui'))()",
