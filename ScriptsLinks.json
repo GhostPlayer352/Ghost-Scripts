@@ -4,7 +4,7 @@
   "+1 Speed Evolve":"loadstring(game:HttpGet(\"https://encrypt-x.pages.dev/Scripts?Id=1speedevolve\"))(\"1speedevolve\")",
   "+1 Weapon Evolution":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/%2B1%20Weapon%20Evolution\"))()",
   "99 Nights in the Forest":"loadstring(game:HttpGet(\"https://rawscripts.net/raw/99-Nights-in-the-Forest-SNOW-BIOME-KEYLESS-BEST-99-NIGHTS-IN-THE-FOREST-SCRIPT-VOIDWARE-47274\"))()",
-  "Accessories Gui":"AutoLoadSavedAccessories = false\n--make it true if you want to auto load your saved accessories without showing the gui\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auth\"))()Ioad(\"1cf0d246861bd474cff49060ffb7d26b\")",
+  "Accessories Gui":"AutoLoadSavedAccessories = false\n--make it true if you want to auto load your saved accessories without showing the gui\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Accessories%20Gui\"))()",
   "Ambient Gui":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auth\"))()Ioad(\"88e91557e59e811777971cf29c9766f5\")",
   "Animation Maker":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Animation%20Maker\"))()",
   "Auto Clicker":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Auto%20Clicker\"))()",
