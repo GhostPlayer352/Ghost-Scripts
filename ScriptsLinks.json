@@ -106,6 +106,7 @@
   "Race Clicker":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Race%20Clicker\"))()",
   "Remove All Players":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Remove%20All%20Players\"))()",
   "Rise A Yippee":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Rise%20A%20Yippee\"))()",
+  "RTX Gui":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/RTX%20Gui%20Hub%20Obfuscator\"))()",
   "Save Emotes":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Save%20Emotes\"))()",
   "Save Server":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Save%20Server\"))()",
   "Script Obfuscator":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Script%20Obfuscator%20Gui\"))()",
