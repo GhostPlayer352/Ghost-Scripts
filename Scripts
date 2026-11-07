@@ -161,6 +161,7 @@
   "Part Name Detector": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Part%20Name%20Detector'))()",
   "Pass The Bomb": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Pass%20The%20Bomb.txt'))()",
   "Penetrating Underground": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Penetrating%20Underground%20Obfuscator'))()",
+  "Piano Rhythm Tiles": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Piano%20Rhythm%20Tiles'))()",
   "Pickaxe Tycoon":"loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Pickaxe%20Tycoon'))()",
   "Player Death Notification": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Player%20Death%20Notification'))()",
   "Player Gui": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Player%20Gui'))()",
