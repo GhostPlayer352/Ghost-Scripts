@@ -63,6 +63,7 @@
   "Guess The Drawing":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Guess%20The%20Drawing\"))()",
   "Guess The Drawings":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Guess%20The%20Drawings!\"))()",
   "Guess The Maths":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Guess%20The%20Maths\"))()",
+  "Guess The Slapper":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Guess%20The%20Slapper\"))()",
   "Gui Maker":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Gui%20Maker\"))()",
   "Hide And Seek Extreme":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Hide%20And%20Seek%20Extreme\"))()",
   "Hide And Seek Props Hunt":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Hide%20And%20Seek%20Props%20Hunt\"))()",
