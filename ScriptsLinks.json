@@ -35,6 +35,7 @@
   "Color Block Clash":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Color%20Block%20Clash\"))()",
   "Copy Animation":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Copy%20Animation\"))()",
   "Copy Avatar":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Copy%20Avatar\"))()",
+  "Crawling Gui":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Crawling%20Gui\"))()",
   "Crown Divers":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Crown%20Divers\"))()",
   "Dance Stop":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Dance%20Stop\"))()",
   "DarkGhost Gui":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/DarkGhost%20Gui%20Hub\"))()",
