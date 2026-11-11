@@ -107,6 +107,7 @@
   "Player Join Left Notification":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Player%20Join%20Left%20Notification\"))()",
   "Portal":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Portal\"))()",
   "Race Clicker":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Race%20Clicker\"))()",
+  "Ramen Simulator":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Ramen%20Simulator\"))()",
   "Remove All Players":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Remove%20All%20Players\"))()",
   "Rise A Yippee":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Rise%20A%20Yippee\"))()",
   "RTX Gui":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/RTX%20Gui%20Hub%20Obfuscator\"))()",
