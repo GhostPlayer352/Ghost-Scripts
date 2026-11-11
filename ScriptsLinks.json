@@ -112,6 +112,7 @@
   "RTX Gui":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/RTX%20Gui%20Hub%20Obfuscator\"))()",
   "Save Emotes":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Save%20Emotes\"))()",
   "Save Server":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Save%20Server\"))()",
+  "Scary Elevator 2":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Scary%20Elevator%202\"))()",
   "Script Obfuscator":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Script%20Obfuscator%20Gui\"))()",
   "Solitary Confinement":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Solitary%20Confinement\"))()",
   "Spam Tools":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Spam%20Tools\"))()",
