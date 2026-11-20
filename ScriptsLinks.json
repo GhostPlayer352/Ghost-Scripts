@@ -93,6 +93,7 @@
   "Musical Chairs":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Musical%20Chairs\"))()",
   "Music Player":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Music%20Gui\"))()",
   "Murder Mystery":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Murder%20Mystery\"))()",
+  "Name Them All":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Name%20Them%20All\"))()",
   "Natural Disaster":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Natural%20Disaster\"))()",
   "Ninja Legends":"loadstring(game:HttpGet(\"https://encrypt-x.pages.dev/Scripts?Id=NinjaLegends\"))(\"NinjaLegends\")",
   "Number Memory":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Number%20Memory\"))()",
