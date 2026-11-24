@@ -140,5 +140,6 @@
   "Void":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Void\"))()",
   "Words Or Die":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Words%20Or%20Die\"))()",
   "XOR Obfuscator":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/XOR%20Obfuscator%20Gui\"))()",
-  "Yes No Maybe":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Yes%20No%20Maybe\"))()"
+  "Yes No Maybe":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/Yes%20No%20Maybe\"))()",
+  "YouTube Music Player":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhostPlayer352/Test4/refs/heads/main/YouTube%20Music%20Player\"))()"
 }
